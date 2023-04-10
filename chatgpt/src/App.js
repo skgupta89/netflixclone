@@ -7,7 +7,7 @@ import { arrayItems } from './AIOptions';
 import Translation from './component/Translation';
 function App() {
 
-const key = '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'
+const key = 'eter your key'
   const data = new Configuration({
     apiKey:key,
   })
